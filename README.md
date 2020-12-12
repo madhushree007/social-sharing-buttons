@@ -12,6 +12,10 @@
 npm install --save social-networking-buttons
 ```
 
+
+<img src="./src/svg.png" />
+<img src="./src/logo.png" />
+
 ## Usage
 
 ```tsx
