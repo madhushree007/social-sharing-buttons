@@ -1,6 +1,6 @@
 import React from 'react'
-
 import { SocialButtons } from 'social-networking-buttons'
+
 
 const App = () => {
   const ReceivedProps: any = {

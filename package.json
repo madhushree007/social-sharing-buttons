@@ -64,6 +64,7 @@
   ],
   "dependencies": {
     "@types/url-parse": "^1.4.3",
+    "react-test-renderer": "^17.0.1",
     "url-parse": "^1.4.7"
   }
 }
